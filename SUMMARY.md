@@ -1,3 +1,3 @@
-# 花錢買時間的系統化做法
+# 花钱买时间的系统性作法
 
 * [Introduction](README.md)
